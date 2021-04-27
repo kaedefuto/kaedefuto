@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kaedefuto&theme=gruvbox&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaedefuto&theme=gruvbox&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaedefuto&theme=gruvbox&layout=compact" />
 </a>
