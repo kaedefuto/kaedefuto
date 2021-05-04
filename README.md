@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://kaedefuto.github.io/kaede_blog/
+
 <!--
 **kaedefuto/kaedefuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
