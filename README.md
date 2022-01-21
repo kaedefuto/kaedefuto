@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-自己紹介:https://kaedefuto.github.io/
+自己紹介：https://kaedefuto.github.io/
 
-ブログ(研究室用):https://github.com/kaedefuto/kaede_blog
+研究室用ブログ：https://github.com/kaedefuto/kaede_blog
 
 <!--
 **kaedefuto/kaedefuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
