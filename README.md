@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 </a>
 
 ![counter](https://komarev.com/ghpvc/?username=kaedefuto)
+![](https://badges.pufler.dev/commits/{yearly}/{kaedefuto})
