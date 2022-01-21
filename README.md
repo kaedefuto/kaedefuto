@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+自己紹介:https://kaedefuto.github.io/
+
+ブログ(研究室用):https://github.com/kaedefuto/kaede_blog
+
 <!--
 **kaedefuto/kaedefuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +26,6 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaedefuto&theme=gruvbox&layout=compact" />
 </a>
 
-https://kaedefuto.github.io/kaede_blog/
-
 ![count](https://komarev.com/ghpvc/?username=kaedefuto)
 ![year](https://badges.pufler.dev/commits/yearly/kaedefuto)
+![repo](https://badges.pufler.dev/repos/kaedefuto)
