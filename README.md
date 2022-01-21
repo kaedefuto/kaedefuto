@@ -24,3 +24,4 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaedefuto&theme=gruvbox&layout=compact" />
 </a>
 
+https://img.shields.io/github/languages/code-size/kaedefuto/kaedefuto
