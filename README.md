@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-自己紹介：https://kaedefuto.github.io/
+Profile：https://kaedefuto.github.io/
 
-研究室用ブログ：https://github.com/kaedefuto/kaede_blog
+Laboratory blog：https://github.com/kaedefuto/kaede_blog
 
 ![count](https://komarev.com/ghpvc/?username=kaedefuto)
 ![year](https://badges.pufler.dev/commits/yearly/kaedefuto)
