@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Profile：https://kaedefuto.github.io/
+Profile：https://kaedefuto.netlify.app/
 
 Laboratory blog：https://github.com/kaedefuto/kaede_blog
 
