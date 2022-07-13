@@ -4,7 +4,7 @@ Profile：https://kaedefuto.netlify.app/
 
 Laboratory blog：https://github.com/kaedefuto/kaede_blog
 
-![count](https://komarev.com/ghpvc/?username=kaedefuto)
+<!-- ![count](https://komarev.com/ghpvc/?username=kaedefuto) -->
 <!-- ![year](https://badges.pufler.dev/commits/years/kaedefuto) -->
 <!-- ![repo](https://badges.pufler.dev/repos/kaedefuto) -->
 
