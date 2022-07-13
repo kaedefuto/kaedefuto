@@ -6,7 +6,7 @@ Laboratory blog：https://github.com/kaedefuto/kaede_blog
 
 ![count](https://komarev.com/ghpvc/?username=kaedefuto)
 <!-- ![year](https://badges.pufler.dev/commits/years/kaedefuto) -->
-![repo](https://badges.pufler.dev/repos/kaedefuto)
+<!-- ![repo](https://badges.pufler.dev/repos/kaedefuto) -->
 
 <!--
 **kaedefuto/kaedefuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
