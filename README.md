@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Profile：https://kaedefuto.netlify.app/
-
-Laboratory blog：https://github.com/kaedefuto/kaede_blog
+Profile：https://www.nadasemi.jp/members/FUTO/Futo_Profile.html
 
 <!-- ![count](https://komarev.com/ghpvc/?username=kaedefuto) -->
 <!-- ![year](https://badges.pufler.dev/commits/years/kaedefuto) -->
