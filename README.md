@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Profile：https://www.nadasemi.jp/members/futo/index.html
+Profile：https://kaedefuto.github.io/
 
 <!-- ![count](https://komarev.com/ghpvc/?username=kaedefuto) -->
 <!-- ![year](https://badges.pufler.dev/commits/years/kaedefuto) -->
